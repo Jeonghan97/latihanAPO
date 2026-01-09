@@ -1,0 +1,4 @@
+price = float(input("Price: RM"))
+qty = int(input("Quantity:"))
+total = price * qty
+print(f"Total price: RM {total:.2f}")
