@@ -1,0 +1,4 @@
+radius = float(input("Enter radius:"))
+pi = 3.142
+perimeter = 2 * pi * radius
+print("Perimeter of circle:",perimeter)
